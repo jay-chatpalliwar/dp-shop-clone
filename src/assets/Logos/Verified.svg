@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" width="14" height="14" viewBox="0 0 14 14" class="icon icon--tick">
+  <g stroke="currentColor" stroke-width="1.5" fill="none" fill-rule="evenodd">
+    <circle cx="7" cy="7" r="6.25"/>
+    <path stroke-linecap="square" d="M10.024 5.4 5.902 9.521 4.2 7.941"/>
+  </g>
+</svg>
